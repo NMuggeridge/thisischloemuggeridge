@@ -1,0 +1,22 @@
+header {
+    background-image:url(images/teemu-paananen-283670-unsplash.jpg);
+    color:white;
+    padding: 20px;
+    text-align: center;
+    font-size:150%;
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0;
+}
+
+#side {
+    background-image:url(images/teemu-paananen-283670-unsplash.jpg);
+    color:white;
+    padding: 20px;
+    text-align: center;
+    font-size:150%;
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0;
+}
+
